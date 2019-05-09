@@ -1,4 +1,4 @@
-This is a simple react project created by Erwin Kehrt for the Northwest Chicago JavaScript group. test
+This is a simple react project created by Erwin Kehrt for the Northwest Chicago JavaScript group.
 
 To use the project, simply clone to your machine, run 'npm install' 
 
